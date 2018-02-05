@@ -1,0 +1,7 @@
+C:\Users\test\Documents\GrandCircus\Bonus17\Bonus17\bin\Debug\Bonus17.exe.config
+C:\Users\test\Documents\GrandCircus\Bonus17\Bonus17\bin\Debug\Bonus17.exe
+C:\Users\test\Documents\GrandCircus\Bonus17\Bonus17\bin\Debug\Bonus17.pdb
+C:\Users\test\Documents\GrandCircus\Bonus17\Bonus17\obj\Debug\Bonus17.csprojResolveAssemblyReference.cache
+C:\Users\test\Documents\GrandCircus\Bonus17\Bonus17\obj\Debug\Bonus17.csproj.CoreCompileInputs.cache
+C:\Users\test\Documents\GrandCircus\Bonus17\Bonus17\obj\Debug\Bonus17.exe
+C:\Users\test\Documents\GrandCircus\Bonus17\Bonus17\obj\Debug\Bonus17.pdb
